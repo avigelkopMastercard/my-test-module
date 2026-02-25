@@ -2,23 +2,6 @@
 
 ![Build](https://github.com/avigelkopMastercard/my-test-module/workflows/Pre%20Merge%20Checks/badge.svg)
 
-This is your new React Native Reproducer project.
-
-# Reproducer TODO list
-
-- [x] 1. Create a new reproducer project.
-- [ ] 2. Git clone your repository locally.
-- [ ] 3. Edit the project to reproduce the failure you're seeing.
-- [ ] 4. Push your changes, so that Github Actions can run the CI.
-- [ ] 5. Make sure the repository is public and share the link with the issue you reported.
-
-# How to use this Reproducer
-
-This project has been created with `npx @react-native-community/cli init` and is a vanilla React Native app.
-
-> [!IMPORTANT]  
-> Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/set-up-your-environment) so that you have a working environment locally.
-
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
@@ -69,7 +52,7 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
-## Step 3: Modifying your App
+## Step 3: Reproduce
 
 In order to see the bad access crash:
 1. Run the app
